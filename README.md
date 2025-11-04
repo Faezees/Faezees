@@ -13,7 +13,7 @@
 - Unit Text
 - TailwindCSS, Styled-Components
 - Git & GitHub, VSCode, 
-
+- node.js 
 ---
 
 ### 🌱 Currently Learning
